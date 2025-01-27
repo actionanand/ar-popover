@@ -1,5 +1,5 @@
 import { Component, OnInit } from "@angular/core";
-import { MdePopoverTrigger } from "@niewicz/mde-popover";
+import { MdePopoverTrigger } from "@ng-ar/ar-popover";
 
 // import 'rxjs/add/operator/first';
 

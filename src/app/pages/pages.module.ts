@@ -4,7 +4,7 @@ import { RouterModule } from "@angular/router";
 import { MatLegacyButtonModule as MatButtonModule } from "@angular/material/legacy-button";
 import { MatLegacyCardModule as MatCardModule } from "@angular/material/legacy-card";
 
-import { MdePopoverModule } from "@niewicz/mde-popover";
+import { MdePopoverModule } from "@ng-ar/ar-popover";
 
 import { ExamplesModule } from "./examples/examples.module";
 import { ErrorModule } from "./error/error.module";

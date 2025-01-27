@@ -19,7 +19,7 @@
       "dom"
     ],
     "paths": {
-      "@niewicz/mde-popover": [
+      "@ng-ar/ar-popover": [
         "dist/mde-popover"
       ]
     },

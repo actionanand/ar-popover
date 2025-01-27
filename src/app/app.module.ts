@@ -11,7 +11,7 @@ import { MatLegacyInputModule as MatInputModule } from "@angular/material/legacy
 import { MatLegacyTabsModule as MatTabsModule } from "@angular/material/legacy-tabs";
 import { MatToolbarModule } from "@angular/material/toolbar";
 
-import { MdePopoverModule } from "@niewicz/mde-popover";
+import { MdePopoverModule } from "@ng-ar/ar-popover";
 
 import { AppRoutingModule } from "./app-routing.module";
 

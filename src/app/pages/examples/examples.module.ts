@@ -3,7 +3,7 @@ import { CommonModule } from "@angular/common";
 import { FormsModule } from "@angular/forms";
 import { MatLegacyInputModule as MatInputModule } from "@angular/material/legacy-input";
 
-import { MdePopoverModule } from "@niewicz/mde-popover";
+import { MdePopoverModule } from "@ng-ar/ar-popover";
 
 import { ExamplesRoutingModule } from "./examples-routing.module";
 

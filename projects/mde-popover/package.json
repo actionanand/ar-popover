@@ -1,5 +1,5 @@
 {
-  "name": "@niewicz/mde-popover",
+  "name": "@ng-ar/ar-popover",
   "version": "15.0.0",
   "dependencies": {
     "tslib": "^2.0.0"
