@@ -1,0 +1,13 @@
+{
+  "name": "@niewicz/mde-popover",
+  "version": "15.0.0",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@angular/animations": "^15.0.0",
+    "@angular/cdk": "^15.0.0",
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  }
+}
