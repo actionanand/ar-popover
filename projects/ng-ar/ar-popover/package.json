@@ -1,0 +1,33 @@
+{
+  "name": "@ng-ar/ar-popover",
+  "version": "17.0.0",
+  "peerDependencies": {
+    "@angular/animations": "^17.0.6",
+    "@angular/cdk": "^17.0.3",
+    "@angular/common": "^17.0.6",
+    "@angular/core": "^17.0.6"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actionanand/ar-popover.git"
+  },
+  "keywords": [
+    "angular",
+    "popover",
+    "material-extended"
+  ],
+  "author": "Anand raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/actionanand/ar-popover/issues"
+  },
+  "homepage": "https://github.com/actionanand/ar-popover#readme"
+}

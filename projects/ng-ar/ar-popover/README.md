@@ -6,11 +6,6 @@
 [Popover Demo](https://muntazir86.github.io/mde-popover/) | [StackBlitz Template](https://stackblitz.com/edit/stackblitz-starters-6n5dqd) | 
 [Documentation](https://github.com/Muntazir86/mde-popover/blob/master/projects/ng-ar/ar-popover/src/lib/popover/popover.md)
 
-### How to publish
-
-```sh
-npm publish --access=public
-```
 
 
 ### Project status
